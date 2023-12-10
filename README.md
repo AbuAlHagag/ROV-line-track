@@ -10,7 +10,7 @@ An Example of the track in a pool
 ![An Example of the track in a pool](referance.jpg)
 
 ## Code in Action
-![](https://github.com/AbuAlHagag/ROV-line-track/blob/master/line%20track%20gif.gif)
+![](lineTrackGif.gif)
 
 ## Known Issues
 * the project does not detect the square at the end and does not stop.
