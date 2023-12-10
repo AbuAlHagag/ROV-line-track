@@ -7,7 +7,7 @@ the project is done by python using specifically openCV library to make image pr
 
 An Example of the track in a pool
 
-![An Example of the track in a pool](https://github.com/AbuAlHagag/ROV-line-track/blob/master/referance.jpg)
+![An Example of the track in a pool](referance.jpg)
 
 ## Code in Action
 ![](https://github.com/AbuAlHagag/ROV-line-track/blob/master/line%20track%20gif.gif)
